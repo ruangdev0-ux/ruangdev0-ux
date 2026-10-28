@@ -1,42 +1,32 @@
-# Olá, eu sou o Ruan Gomes
+# Ruan Gomes
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Universidade de Franca, com conclusão prevista para 2027.
-Estou construindo minha base em desenvolvimento de software e busco **oportunidades de estágio na área de tecnologia**.
+Estudante de Análise e Desenvolvimento de Sistemas na Unifran (conclusão prevista em dez/2027), buscando **estágio em Desenvolvimento de Software**. Meu foco é desenvolvimento de software e back-end, e aprendo construindo projetos publicados com código aberto.
 
-## Áreas de interesse
+**Uso nos projetos:** JavaScript · HTML · CSS · APIs REST · Git e GitHub · GitHub Actions (CI/CD) · testes unitários (node:test) · Vite
+**Em estudo:** C# · Python
 
-- Desenvolvimento de software
-- Programação e inteligência artificial
-- Vendas e negócios
-
-## Projetos em destaque
+## Projetos
 
 ### [SalesFlow — Sistema de gestão comercial](https://github.com/ruangdev0-ux/salesflow)
+CRUD de clientes e produtos, vendas com baixa automática de estoque, regras de negócio, código em camadas, testes unitários e CI/CD com GitHub Actions (o deploy só acontece se os testes passarem).
+[Demonstração](https://ruangdev0-ux.github.io/salesflow/) · [Código](https://github.com/ruangdev0-ux/salesflow)
 
-Sistema web para cadastrar clientes e produtos, registrar vendas com controle de estoque e acompanhar os números do negócio em um dashboard. Feito com JavaScript puro (módulos ES), com dados salvos no navegador (`localStorage`, sem back-end), testes unitários e publicação automática com GitHub Actions e GitHub Pages.
+<a href="https://ruangdev0-ux.github.io/salesflow/"><img src="https://github.com/ruangdev0-ux/salesflow/raw/main/assets/preview.png" alt="Dashboard do SalesFlow" width="560"></a>
 
-- Demonstração: https://ruangdev0-ux.github.io/salesflow/
-- Código: https://github.com/ruangdev0-ux/salesflow
+### [SkyCast — Previsão do tempo com API REST](https://github.com/ruangdev0-ux/skycast)
+Consome a API Open-Meteo com fetch e async/await, usa a Geolocation API, trata erros e é publicado com Vite e GitHub Actions.
+[Demonstração](https://ruangdev0-ux.github.io/skycast/) · [Código](https://github.com/ruangdev0-ux/skycast)
 
-<a href="https://ruangdev0-ux.github.io/salesflow/"><img src="https://github.com/ruangdev0-ux/salesflow/raw/main/assets/preview.png" alt="Dashboard do SalesFlow com indicadores de vendas, faturamento e clientes" width="640"></a>
+### Ordena e Prateleira — Protótipos SaaS
+Demonstrações com dados fictícios: perfis de acesso, pedidos em Kanban, reserva e baixa de estoque, alertas e relatórios. No Ordena, a classificação de mensagens por "IA" é simulada por regras.
+[Prateleira](https://somosvortyx.com.br/demonstracoes/saas/pedidos-estoque/) · [Ordena](https://somosvortyx.com.br/demonstracoes/saas/central-atendimento/) · [Código](https://github.com/ruangdev0-ux/vortyx-site/tree/main/demonstracoes/saas)
 
-### [SkyCast — Painel de previsão do tempo](https://github.com/ruangdev0-ux/skycast)
+### [Trilha Devs — Do Figma ao código](https://github.com/ruangdev0-ux/trilha-devs-login)
+Projeto acadêmico: tela de login prototipada no Figma e implementada com validação em tempo real e acessibilidade (aria-live, aria-invalid, foco visível).
+[Demonstração](https://ruangdev0-ux.github.io/trilha-devs-login/) · [Código](https://github.com/ruangdev0-ux/trilha-devs-login)
 
-Aplicação web que mostra as condições atuais e a previsão de 7 dias para qualquer cidade, com busca por nome ou pela localização do navegador. Feita com JavaScript, Vite e a API Open-Meteo, e publicada automaticamente com GitHub Actions e GitHub Pages.
+## Experiência prática
+**Vortyx** — projeto próprio de tecnologia, em paralelo aos estudos. Desenvolvo e mantenho o site [somosvortyx.com.br](https://somosvortyx.com.br) (HTML, CSS, JavaScript e Three.js) e 20 demonstrações interativas com dados fictícios.
 
-- Demonstração: https://ruangdev0-ux.github.io/skycast/
-- Código: https://github.com/ruangdev0-ux/skycast
-- Próximas melhorias: [quadro do projeto](https://github.com/users/ruangdev0-ux/projects/3)
-
-<a href="https://ruangdev0-ux.github.io/skycast/"><img src="https://github.com/ruangdev0-ux/skycast/raw/main/docs/dashboard.png" alt="Painel do SkyCast exibindo a previsão do tempo para São Paulo" width="640"></a>
-
-## Tecnologias usadas nos projetos
-
-- **SalesFlow:** HTML, CSS, JavaScript (módulos ES, manipulação do DOM e `localStorage`), testes com o executor nativo do Node.js, Git e GitHub, GitHub Actions e GitHub Pages.
-- **SkyCast:** HTML, CSS, JavaScript (módulos ES, `fetch` e `async/await`), Vite, consumo de API REST (Open-Meteo), Git e GitHub, GitHub Actions e GitHub Pages.
-
-## Contato
-
-- LinkedIn: [Ruan Gomes](https://www.linkedin.com/in/ruan-gomes-805029393)
-- E-mail: ruangdev0@gmail.com
-- GitHub: [@ruangdev0-ux](https://github.com/ruangdev0-ux)
+## Links
+[Portfólio](https://ruangdev0-ux.github.io/ruan-gomes-dev/) · [LinkedIn](https://www.linkedin.com/in/ruan-gomes-805029393/) · ruangdev0@gmail.com
