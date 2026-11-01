@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na **Unifran** (conclusão prevista em dez/2027), com foco em **Desenvolvimento de Software e back-end** e em formação para Engenharia de Software. Desenvolvo projetos pessoais com APIs REST, PostgreSQL, autenticação, regras de negócio, testes unitários e de integração e CI/CD.
 
-Busco estágio em Desenvolvimento de Software / back-end, remoto ou híbrido.
+Busco estágio em Desenvolvimento de Software / back-end, remoto como prioridade, aberto a híbrido.
 
 **Back-end nos projetos:** C# · .NET 8 · ASP.NET Core · Entity Framework Core · TypeScript · Node.js · Express · PostgreSQL · APIs REST · JWT
 **Testes e CI/CD:** testes unitários e de integração · xUnit · Vitest · GitHub Actions · Swagger/OpenAPI
